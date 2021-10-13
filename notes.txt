@@ -12,3 +12,5 @@ https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-11/s
 
 Java 11 HttpClient Example
 https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-11/src/main/java/com/baeldung/java11/httpclient/HttpClientExample.java
+Exploring the New HTTP Client in Java
+https://www.baeldung.com/java-9-http-client
