@@ -3,3 +3,12 @@ https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features#_java_f
 
 Sealed Classes and Interfaces in Java 15
 https://www.baeldung.com/java-sealed-classes-interfaces
+
+Java 11 Local Variable Syntax for Lambda Parameters
+https://www.baeldung.com/java-var-lambda-params
+
+Java 11 New String API Examples
+https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-11/src/test/java/com/baeldung/NewStringAPIUnitTest.java
+
+Java 11 HttpClient Example
+https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-11/src/main/java/com/baeldung/java11/httpclient/HttpClientExample.java
