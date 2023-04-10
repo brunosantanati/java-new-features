@@ -1,4 +1,4 @@
-package me.bruno.santana.java8;
+package me.bruno.santana.java8.completable.future;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
