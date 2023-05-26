@@ -24,4 +24,10 @@ Command to compile using a incubator feature:
 
 Command to execute using a incubator feature:
 ~/IdeaProjects/java-new-features/out$ java --add-modules jdk.incubator.vector me.bruno.santana.incubator.VectorApiDemo
+
+Compile using a incubator feature and informing classpath:
+~/IdeaProjects/java-new-features/src/main/java$ javac -d ~/IdeaProjects/java-new-features/out -cp .:/home/bruno/.m2/repository/org/openjdk/jmh/jmh-core/1.35/jmh-core-1.35.jar:/home/bruno/.m2/repository/org/openjdk/jmh/jmh-generator-annprocess/1.35/jmh-generator-annprocess-1.35.jar:/home/bruno/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar --add-modules jdk.incubator.vector me/bruno/santana/incubator/VectorApiDemo.java
+
+Execute using a incubator feature and informing classpath:
+~/IdeaProjects/java-new-features/out$ java -cp .:/home/bruno/.m2/repository/org/openjdk/jmh/jmh-core/1.35/jmh-core-1.35.jar:/home/bruno/.m2/repository/org/openjdk/jmh/jmh-generator-annprocess/1.35/jmh-generator-annprocess-1.35.jar:/home/bruno/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar --add-modules jdk.incubator.vector me.bruno.santana.incubator.VectorApiDemo
 ```
