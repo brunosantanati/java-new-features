@@ -14,3 +14,4 @@ Repo to keep some examples of new features (from Java 8 until last version).
 [How to run the Java Incubator Module from the Command Line and IntelliJ IDEA](https://foojay.io/today/how-to-run-the-java-incubator-module-from-the-command-line-and-intellij-idea/)  
 [Learn how to write fast Java code with the Vector API - JEP Café episode 18](https://www.youtube.com/watch?v=42My8Yfzwbg)  
 [Java Microbenchmark Harness (JMH)](https://github.com/openjdk/jmh)  
+[Microbenchmarking with Java](https://www.baeldung.com/java-microbenchmark-harness)  
